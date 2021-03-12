@@ -1,0 +1,19 @@
+.toy-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  grid-gap: 1rem;
+justify-items: center;
+}
+
+.toy-list li {
+border: 1px solid black;
+border-radius: 10px;
+box-shadow: 5px 5px 13px -3px #000000;
+background-color: #797979;
+}
+
+button {
+width: fit-content;
+border-radius: 10px;
+background-color: rgb(136, 184, 240);
+}

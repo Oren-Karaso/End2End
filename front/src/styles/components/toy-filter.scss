@@ -1,0 +1,15 @@
+.search-input {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+
+    input {
+        margin-left: 10px;
+    }
+}
+
+.filter-inputs {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}

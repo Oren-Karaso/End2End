@@ -1,0 +1,22 @@
+.navbar {
+    height: 65px;
+    border-bottom: 2px solid black;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $clr1;
+    color: $clr2;
+
+    a {
+        color: $clr2;
+        margin-left: 10px;
+        margin-right: 10px;
+
+    }
+
+    img {
+        width: 4rem;
+        margin-left: 20px;
+    }
+}

@@ -1,0 +1,15 @@
+.footer {
+    height: 80px;
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $clr1;
+    margin: auto;
+    padding: 0 2rem;
+    width: 100%;
+
+    a {
+        margin-right: 10px;
+    }
+}

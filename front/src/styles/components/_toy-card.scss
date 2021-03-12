@@ -1,0 +1,16 @@
+.toy-card {
+    // background-color: $clr1;
+    // background-image: linear-gradient(to right top, #38438b, #944b94, #d75a88, #ff7e71, #ffb25f, #ffeb68);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Opensans, serif;
+    font-size: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: $clr3;
+    box-shadow: 5px 5px 15px -2px #000000;
+}
